@@ -1,14 +1,17 @@
 #Shop
 
+![31](https://github.com/user-attachments/assets/34a0688e-4e25-4024-9290-656dd0a2f14f)
+
+
 -🔗 [Demo Project]()
 
 -🙍 Developed by helia rezaie
 
 -🗓️ Created - 2025-05-20
 
--📱 Technologies Used - Html , css .
+-📱 Technologies Used - Html , Tailwind , Nextjs .
 
-- Hooks Used : useState 
+- Hooks Used : useState , useEffect
 
 - Role - Frontend
 
